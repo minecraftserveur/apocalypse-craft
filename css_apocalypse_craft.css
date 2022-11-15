@@ -3,7 +3,7 @@ header{border: 2px solid rgb(50,20,20);border-radius: 10px; background-color:rgb
 	h1{text-align:center;}
 	h2{color:white ;text-align:center;font:"Arial", sans-serif;}
 	h3{font:"Arial";color:white ;text-align:center;}
-	h4{text-align:center;border: 2px solid rgb(50,20,20);border-radius: 10px;}
+	h4{background-color:rgb(20,20,20);text-align:center;border: 2px solid rgb(50,20,20);border-radius: 10px;}
     td{a:center;border: 2px solid rgb(50,20,20);border-radius: 10px;background-color:rgb(20,20,20);color:white ;text-align:center;}
 	table{text-align:center;text-color:white ;align:center;}
 	body{background-color:rgb(10, 10, 10); }
