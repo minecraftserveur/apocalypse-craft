@@ -1,8 +1,8 @@
-header{ background-color:#bbbb32;color:rgb(220,10,10);text-align:center;}
-	p{ background-color:#bbbb32;color:rgb(220,10,10);text-align:center;}
-	h1{color:red ;font:"Optima", sans-serif; text-align:center;}
-	h2{text-align:center;font:"Optima", sans-serif;}
-	h4{text-align:center;}
-	td{text-align:center;}
-	table{align:center;}
-	body{background-color:#E1DADA; }
+header{ background-color:rgb(20,20,20);color:white;text-align:center;}
+	p{ background-color:rgb(20,20,20);color:white;text-align:center;}
+	h1{align:center;}
+	h2{color:white ;text-align:center;font:"Arial", sans-serif;}
+	p{color:white ;text-align:center;}
+	td{ background-color:rgb(20,20,20);color:white ;text-align:center;}
+	table{color:white ;align:center;}
+	body{background-color:rgb(10, 10, 10); }
