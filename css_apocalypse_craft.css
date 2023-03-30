@@ -68,7 +68,7 @@ body {
 }
 
 /* Media query for screens with smaller widths */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
   .button {
     padding: 5px;
     font-size: 14px;
