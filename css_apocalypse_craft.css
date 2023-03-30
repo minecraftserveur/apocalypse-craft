@@ -51,13 +51,10 @@ h3 {
 }
 
 td {
-  border: 2px solid rgb(50,20,20);
-  border-radius: 10px;
-  background-color: rgb(20,20,20);
   color: white;
   text-align: center;
-  text-decoration: none;
-  display: block;
+  text-decoration: solid;
+  display: -webkit-inline-box;
   padding: 0px 5px;
 }
 
